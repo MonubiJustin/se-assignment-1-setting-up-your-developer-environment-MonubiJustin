@@ -52,3 +52,47 @@ Submit your document and GitHub repository link through the designated platform 
 - Adherence to submission guidelines and deadlines.
 
 Note: Feel free to reach out for clarification or assistance with any aspect of the assignment.
+
+
+
+### Setup Process Document:
+
+#### Operating System:
+- Installed Windows 11 from [Microsoft's website](https://www.microsoft.com/software-download/windows11).
+
+#### Text Editor/IDE:
+- Installed Visual Studio Code from [Visual Studio Code's website](https://code.visualstudio.com/Download).
+
+#### Version Control System:
+- Installed Git from [Git's website](https://git-scm.com/download/win).
+- Created a GitHub account and initialized a Git repository for the project.
+- Made the first commit to the repository.
+
+#### Programming Languages and Runtimes:
+- Installed Python from [Python's website](https://www.python.org/downloads/).
+
+#### Package Managers:
+- Installed pip (Python's package manager) as it comes bundled with Python installation.
+- Installed anaconda from their website anaconda.org
+
+#### Database (MySQL):
+- Downloaded and installed MySQL database from [MySQL's website](https://dev.mysql.com/downloads/windows/installer/5.7.html).
+- Configured MySQL server and created a sample database for the project.
+
+#### Development Environments and Virtualization (Optional):
+- Did not utilize virtualization tools for this setup.
+
+#### Extensions and Plugins:
+- Explored available extensions in Visual Studio Code for Python development, such as Python, Pylance, and GitLens.
+- Installed MySQL extension for database management within VS Code.
+
+
+### GitHub Repository:
+- Created a GitHub repository containing a sample project initialized with Git.
+
+
+### Reflection:
+- Encountered challenges during MySQL installation due to configuration issues, resolved by carefully following installation steps and troubleshooting online resources.
+- Overcame setup challenges by consulting documentation, online forums, and experimenting with different configurations.
+
+
